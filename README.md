@@ -1,6 +1,7 @@
 # Web Practice Project
 
 **ФИО:** Кузьмин Александр Юрьевич
+
 **Ссылка на Git-репозиторий:** https://github.com/DanteYoshi/web-practice-kuzmin  
 
 ## Используемые технологии
